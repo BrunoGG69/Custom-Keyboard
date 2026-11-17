@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Keyboard") (type "KiCad") (uri "${KIPRJMOD}/lib/Keyboard.pretty") (options "") (descr "All footprints used by this board"))
+)
