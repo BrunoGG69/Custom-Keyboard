@@ -1,0 +1,13 @@
+# KiCad per-user / auto-generated files
+*.kicad_prl
+.history/
+*-backups/
+fp-info-cache
+*.lck
+\#auto_saved_files\#
+_autosave-*
+*.bak
+
+# Python
+__pycache__/
+*.pyc
